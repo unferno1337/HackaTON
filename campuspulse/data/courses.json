@@ -1,0 +1,61 @@
+[
+  {
+    "code": "CS301",
+    "title": "Machine Learning",
+    "instructor": "A. Suleimenova",
+    "schedule": "Mon/Wed 10:00-11:30",
+    "assignments": [
+      {
+        "title": "Assignment 3: CNN classifier",
+        "due_offset_days": 4,
+        "due_time": "23:59",
+        "weight": 15,
+        "status": "in progress"
+      },
+      {
+        "title": "Midterm project proposal",
+        "due_offset_days": 10,
+        "due_time": "18:00",
+        "weight": 10,
+        "status": "not started"
+      }
+    ]
+  },
+  {
+    "code": "CS310",
+    "title": "Distributed Systems",
+    "instructor": "D. Kim",
+    "schedule": "Tue/Thu 14:00-15:30",
+    "assignments": [
+      {
+        "title": "Lab 4: Raft consensus",
+        "due_offset_days": 2,
+        "due_time": "23:59",
+        "weight": 8,
+        "status": "in progress"
+      },
+      {
+        "title": "Reading response: Paxos",
+        "due_offset_days": 8,
+        "due_time": "09:00",
+        "weight": 5,
+        "status": "not started"
+      }
+    ]
+  },
+  {
+    "code": "HUM205",
+    "title": "Digital Ethics",
+    "instructor": "L. Omarova",
+    "schedule": "Fri 12:00-13:30",
+    "assignments": [
+      {
+        "title": "Essay draft: privacy by design",
+        "due_offset_days": 14,
+        "due_time": "23:59",
+        "weight": 20,
+        "status": "not started"
+      }
+    ]
+  }
+]

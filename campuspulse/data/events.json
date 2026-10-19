@@ -1,0 +1,52 @@
+[
+  {
+    "id": "evt-001",
+    "title": "GDG Astana: AI Night",
+    "day_offset": 3,
+    "start": "18:30",
+    "end": "21:00",
+    "venue": "Campus Hub, Block C",
+    "tags": ["ai", "tech", "networking"],
+    "description": "Talks on AI agents and RAG, demo alley, free entry with registration."
+  },
+  {
+    "id": "evt-002",
+    "title": "Robotics Demo Day",
+    "day_offset": 5,
+    "start": "15:00",
+    "end": "18:00",
+    "venue": "Innovation Lab, Block D",
+    "tags": ["robotics", "ai", "demo"],
+    "description": "Student robots, autonomous navigation demos and a Q&A with labs."
+  },
+  {
+    "id": "evt-003",
+    "title": "Campus Film Club: Science Fiction",
+    "day_offset": 6,
+    "start": "19:00",
+    "end": "22:00",
+    "venue": "Atrium Auditorium",
+    "tags": ["film", "club", "social"],
+    "description": "Screening and short discussion. Free popcorn, first come first served."
+  },
+  {
+    "id": "evt-004",
+    "title": "Career Fair: Tech & Data",
+    "day_offset": 9,
+    "start": "11:00",
+    "end": "17:00",
+    "venue": "Sports Hall",
+    "tags": ["career", "tech", "data"],
+    "description": "Recruiters from local product companies and banks, CV reviews on site."
+  },
+  {
+    "id": "evt-005",
+    "title": "Night Study Marathon",
+    "day_offset": 13,
+    "start": "20:00",
+    "end": "23:30",
+    "venue": "Library Quiet Floor 3F",
+    "tags": ["study", "community", "exam"],
+    "description": "Quiet study session with mentors, coffee and power strips."
+  }
+]

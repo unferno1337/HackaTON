@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "campuspulse": {
+      "command": "python",
+      "args": ["-m", "campuspulse.mcp_server"]
+    }
+  }
+}

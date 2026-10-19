@@ -1,0 +1,50 @@
+[
+  {
+    "id": "loc-001",
+    "name": "Library Quiet Floor 3F",
+    "category": "study",
+    "hours": "08:00-23:00",
+    "features": ["silent", "power sockets", "wifi", "individual desks"],
+    "location": "Main Library, 3rd floor"
+  },
+  {
+    "id": "loc-002",
+    "name": "Campus Hub Co-working",
+    "category": "study",
+    "hours": "24/7 with student ID",
+    "features": ["group rooms", "power sockets", "coffee", "wifi", "whiteboards"],
+    "location": "Campus Hub, 2nd floor"
+  },
+  {
+    "id": "loc-003",
+    "name": "Innovation Lab Makerspace",
+    "category": "lab",
+    "hours": "09:00-21:00",
+    "features": ["3d printers", "power sockets", "wifi", "group tables"],
+    "location": "Innovation Lab, Block D"
+  },
+  {
+    "id": "loc-004",
+    "name": "Atrium Cafe",
+    "category": "cafe",
+    "hours": "08:00-20:00",
+    "features": ["coffee", "power sockets", "wifi", "food"],
+    "location": "Atrium, 1st floor"
+  },
+  {
+    "id": "loc-005",
+    "name": "Silent Study Pods",
+    "category": "study",
+    "hours": "07:00-24:00",
+    "features": ["silent", "power sockets", "wifi", "single pods"],
+    "location": "Library, 2nd floor"
+  },
+  {
+    "id": "loc-006",
+    "name": "Library Cafe Corner",
+    "category": "study",
+    "hours": "08:00-22:00",
+    "features": ["silent", "coffee", "power sockets", "wifi"],
+    "location": "Main Library, 1st floor"
+  }
+]
